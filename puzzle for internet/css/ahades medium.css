@@ -1,0 +1,476 @@
+
+ /*bakhshe medium css ahades 1,6,7,9,10 */
+body{
+		overflow-y: hidden;
+	}
+	video{
+		height: 100%;
+		width: 100%;
+	}
+
+	#mediumFirst_Hades,#mediumSix_Hades,#mediumSeven_Hades,
+	#mediumNine_Hades,#mediumTen_Hades{
+		background-color: rgba(0,0,0,0.4);
+		position: absolute;
+		height: 70%;
+		width: 95%;
+		top: 11%;
+		left:2%;
+		padding-top: 60px;
+		padding-left: 20px;
+	}
+
+	#mediumFirst_Hades #firstLine,
+	#mediumSix_Hades #firstLine,#mediumSeven_Hades #firstLine,
+	#mediumNine_Hades #firstLine,#mediumTen_Hades #firstLine{
+		display: block;
+		float: right;
+		margin-top: -430px;
+		margin-right: 20px;
+	}
+	#mediumFirst_Hades #secondLine,
+	#mediumSix_Hades #secondLine,#mediumSeven_Hades #secondLine,
+	#mediumNine_Hades #secondLine,#mediumTen_Hades #secondLine{
+		float: right;
+		display: block;
+		margin-top: -320px;
+		margin-right: 20px;
+	}
+	#mediumFirst_Hades #thirdLine,
+	#mediumSix_Hades #thirdLine,#mediumSeven_Hades #thirdLine,
+	#mediumNine_Hades #thirdLine,#mediumTen_Hades #thirdLine{
+		float: right;
+		display: block;
+		margin-top: -210px;
+		margin-right: 20px;
+	}
+	#mediumFirst_Hades #fourthLine,
+	#mediumSix_Hades #fourthLine,#mediumSeven_Hades #fourthLine,
+	#mediumNine_Hades #fourthLine,#mediumTen_Hades #fourthLine{
+		float: right;
+		display: block;
+		margin-top: -100px;
+		margin-right: 20px;
+	}
+	#mediumFirst_Hades #firstLine div,
+	#mediumSix_Hades #firstLine div,#mediumSeven_Hades #firstLine div,
+	#mediumNine_Hades #firstLine div,#mediumTen_Hades #firstLine div,
+	#mediumFirst_Hades #secondLine div,
+	#mediumSix_Hades #secondLine div,#mediumSeven_Hades #secondLine div,
+	#mediumNine_Hades #secondLine div,#mediumTen_Hades #secondLine div,
+	#mediumFirst_Hades #thirdLine div,
+	#mediumSix_Hades #thirdLine div,#mediumSeven_Hades #thirdLine div,
+	#mediumNine_Hades #thirdLine div,#mediumTen_Hades #thirdLine div,
+	#mediumFirst_Hades #fourthLine div,
+	#mediumSix_Hades #fourthLine div,#mediumSeven_Hades #fourthLine div,
+	#mediumNine_Hades #fourthLine div,#mediumTen_Hades #fourthLine div{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 4px white;
+		height: 80px;
+		width: 120px;
+		margin: 7px;
+		display: inline-block;
+	}
+	#firstLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#secondLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#thirdLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#fourthLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#mediumFirst_Hades #firstLinepic,
+	#mediumSix_Hades #firstLinepic,#mediumSeven_Hades #firstLinepic,
+	#mediumNine_Hades #firstLinepic,#mediumTen_Hades #firstLinepic{
+		display: block;
+		margin-top: -20px;
+	}
+	#mediumFirst_Hades #secondLinepic,
+	#mediumSix_Hades #secondLinepic,#mediumSeven_Hades #secondLinepic,
+	#mediumNine_Hades #secondLinepic,#mediumTen_Hades #secondLinepic{
+		display: block;
+	}
+	#mediumFirst_Hades #thirdLinepic,
+	#mediumSix_Hades #thirdLinepic,#mediumSeven_Hades #thirdLinepic,
+	#mediumNine_Hades #thirdLinepic,#mediumTen_Hades #thirdLinepic{
+		display: block;
+	}
+	#mediumFirst_Hades #fourthLinepic,#mediumSix_Hades #fourthLinepic,
+	#mediumSeven_Hades #fourthLinepic,#mediumNine_Hades #fourthLinepic,
+	#mediumTen_Hades #fourthLinepic{
+		display: block;
+	}
+	#mediumFirst_Hades img,#mediumSix_Hades img,
+	#mediumSeven_Hades img,#mediumNine_Hades img,#mediumTen_Hades img{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 4px transparent;
+		box-shadow: 0 1px 10px 1px white;
+		height: 80px;
+		width: 120px;
+	}
+
+
+	/*ahades medium shomara 5,8,11,12*/
+
+		#mediumEight_Hades,#mediumFive_Hades,#mediumEleven_Hades,
+		#mediumTwelve_Hades{
+		background-color: rgba(0,0,0,0.4);
+		position: absolute;
+		height: 80%;
+		width: 95%;
+		top: 10%;
+		left:2%;
+		padding-top: 30px;
+		padding-left: 10px;
+	}
+	 #mediumEight_Hades #firstLine,#mediumFive_Hades #firstLine,
+	 #mediumEleven_Hades #firstLine,#mediumTwelve_Hades #firstLine{
+		display: block;
+		margin-left: 33%;
+		margin-top: -12px;
+	}
+	 #mediumEight_Hades #firstLine div,#mediumFive_Hades #firstLine div,
+	 #mediumEleven_Hades #firstLine div,#mediumTwelve_Hades #firstLine div,
+	  #mediumEight_Hades #secondLine div,#mediumFive_Hades #secondLine div,
+	 #mediumEleven_Hades #secondLine div,#mediumTwelve_Hades #secondLine div,
+	  #mediumEight_Hades #thirdLine div,#mediumFive_Hades #thirdLine div,
+	 #mediumEleven_Hades #thirdLine div,#mediumTwelve_Hades #thirdLine div,
+	  #mediumEight_Hades #fourthLine div,#mediumFive_Hades #fourthLine div,
+	 #mediumEleven_Hades #fourthLine div,#mediumTwelve_Hades #fourthLine div,
+	  #mediumEight_Hades #fifthLine div,#mediumFive_Hades #fifthLine div,
+	 #mediumEleven_Hades #fifthLine div,#mediumTwelve_Hades #fifthLine div{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 3px white;
+		height: 80px;
+		width: 120px;
+		margin: 7px;
+		display: inline-block;
+	}
+	#mediumEight_Hades #secondLine,#mediumFive_Hades #secondLine,
+	#mediumEleven_Hades #secondLine,#mediumTwelve_Hades #secondLine{
+		margin-left: 33%;
+		display: block;
+	}
+	#mediumEight_Hades #thirdLine,#mediumFive_Hades #thirdLine,
+	#mediumEleven_Hades #thirdLine,#mediumTwelve_Hades #thirdLine{
+		margin-left: 33%;
+		display: block;
+	}
+	#mediumEight_Hades #fourthLine,#mediumFive_Hades #fourthLine,
+	#mediumEleven_Hades #fourthLine,#mediumTwelve_Hades #fourthLine{
+		margin-left: 33%;
+		display: block;
+	}
+	#mediumEight_Hades #fifthLine,#mediumFive_Hades #fifthLine,
+	#mediumEleven_Hades #fifthLine,#mediumTwelve_Hades #fifthLine{
+		margin-left: 33%;
+	}
+	#mediumEight_Hades .DivImage,#mediumFive_Hades .DivImage,
+	#mediumEleven_Hades .DivImage,#mediumTwelve_Hades .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display: block;
+	}
+	#mediumEight_Hades img,#mediumFive_Hades img,#mediumEleven_Hades img,
+		#mediumTwelve_Hades img{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 3px transparent;
+		box-shadow: 0 1px 10px 1px white;
+		height: 80px;
+		width: 120px;
+	}
+	#mediumEight_Hades #firstLinepic,
+	#mediumFive_Hades #firstLinepic,#mediumEleven_Hades #firstLinepic,
+	#mediumTwelve_Hades #firstLinepic{
+		display: block;
+		float: left;
+		margin-top: -400px;
+	}
+	#mediumEight_Hades #secondLinepic,
+	#mediumFive_Hades #secondLinepic,#mediumEleven_Hades #secondLinepic,
+	#mediumTwelve_Hades #secondLinepic{
+		display: block;
+		float: left;
+		margin-top: -200px;
+	}
+	#mediumEight_Hades #meddleLinepic,
+	#mediumFive_Hades #meddleLinepic,#mediumEleven_Hades #meddleLinepic,
+	#mediumTwelve_Hades #meddleLinepic{
+		display: block;
+		float: left;
+		margin-top: -300px;
+		margin-left: 10px;
+	}
+	#mediumEight_Hades #meddleLinepicright,
+	#mediumFive_Hades #meddleLinepicright,#mediumEleven_Hades #meddleLinepicright,
+	#mediumTwelve_Hades #meddleLinepicright{
+		display: block;
+		float: right;
+		margin-top: -300px;
+		margin-right:10px; 
+	}
+	#mediumEight_Hades #thirdLinepic,
+	#mediumFive_Hades #thirdLinepic,#mediumEleven_Hades #thirdLinepic,
+	#mediumTwelve_Hades #thirdLinepic{
+		display: block;
+		float: right;
+		margin-top: -400px;
+		margin-right: 10px;
+	}
+	#mediumEight_Hades #fourthLinepic,#mediumFive_Hades #fourthLinepic,
+	#mediumEleven_Hades #fourthLinepic,#mediumTwelve_Hades #fourthLinepic{
+		display: block;
+		float: right;
+		margin-top: -200px;
+		margin-right: 10px;
+	}
+
+
+	 /*ahades medium shomara 2,3,4*/
+
+	 #seven_Hades,#twelve_Hades,#thirten_Hades,#fourten_Hades,#fiften_Hades{
+		background-color: rgba(0,0,0,0.4);
+		position: absolute;
+		height: 70%;
+		width: 95%;
+		top: 11%;
+		left:2%;
+		padding-top: 60px;
+		padding-left: 20px;
+	}
+
+	#seven_Hades #firstLine,#twelve_Hades #firstLine,#thirten_Hades #firstLine,
+	#fourten_Hades #firstLine,#fiften_Hades #firstLine{
+		display: block;
+		float: right;
+		margin-top: -430px;
+		margin-right: 20px;
+	}
+	#seven_Hades #secondLine,#twelve_Hades #secondLine,#thirten_Hades #secondLine,
+	#fourten_Hades #secondLine,#fiften_Hades #secondLine{
+		float: right;
+		display: block;
+		margin-top: -320px;
+		margin-right: 20px;
+	}
+	#seven_Hades #thirdLine,#twelve_Hades #thirdLine,#thirten_Hades #thirdLine,
+	#fourten_Hades #thirdLine,#fiften_Hades #thirdLine{
+		float: right;
+		display: block;
+		margin-top: -210px;
+		margin-right: 20px;
+	}
+	#seven_Hades #fourthLine,#twelve_Hades #fourthLine,#thirten_Hades #fourthLine,
+	#fourten_Hades #fourthLine,#fiften_Hades #fourthLine{
+		float: right;
+		display: block;
+		margin-top: -100px;
+		margin-right: 20px;
+	}
+	#seven_Hades #firstLine div,#twelve_Hades #firstLine div,#thirten_Hades 
+	#firstLine div,#fourten_Hades #firstLine div,#fiften_Hades #firstLine div,
+	#seven_Hades #secondLine div,#twelve_Hades #secondLine div,#thirten_Hades
+	#secondLine div,#fourten_Hades #secondLine div,#fiften_Hades #secondLine div,
+	#seven_Hades #thirdLine div,#twelve_Hades #thirdLine div,#thirten_Hades
+	#thirdLine div,#fourten_Hades #thirdLine div,#fiften_Hades #thirdLine div,
+	#seven_Hades #fourthLine div,#twelve_Hades #fourthLine div,#thirten_Hades 
+	#fourthLine div,#fourten_Hades #fourthLine div,#fiften_Hades #fourthLine div{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 4px white;
+		height: 90px;
+		width: 125px;
+		margin: 7px;
+		display: inline-block;
+	}
+	#firstLinepic .DivImage{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 3px transparent;
+		height: 90px;
+		width: 125px;
+		margin: 7px;
+		display:inline-block;
+	}
+	#secondLinepic .DivImage{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 3px transparent;
+		height: 90px;
+		width: 125px;
+		margin: 7px;
+		display:inline-block;
+	}
+	#thirdLinepic .DivImage{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 3px transparent;
+		height: 90px;
+		width: 125px;
+		margin: 7px;
+		display:inline-block;
+	}
+	#fourthLinepic .DivImage{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 3px transparent;
+		height: 90px;
+		width: 125px;
+		margin: 7px;
+		display:inline-block;
+	}
+	#seven_Hades #firstLinepic,#twelve_Hades #firstLinepic,#thirten_Hades #firstLinepic,
+	#fourten_Hades #firstLinepic,#fiften_Hades #firstLinepic{
+		display: block;
+		margin-top: -20px;
+	}
+	#seven_Hades #secondLinepic,#twelve_Hades #secondLinepic,#thirten_Hades 
+	#secondLinepic,#fourten_Hades #secondLinepic,#fiften_Hades #secondLinepic{
+		display: block;
+	}
+	#seven_Hades #thirdLinepic,#twelve_Hades #thirdLinepic,#thirten_Hades #thirdLinepic,
+	#fourten_Hades #thirdLinepic,#fiften_Hades #thirdLinepic{
+		display: block;
+	}
+	#seven_Hades #fourthLinepic,#twelve_Hades #fourthLinepic,#thirten_Hades #fourthLinepic,
+	#fourten_Hades #fourthLinepic,#fiften_Hades #fourthLinepic{
+		display: block;
+	}
+	#seven_Hades img,#twelve_Hades img,#thirten_Hades img,#fourten_Hades img,
+	#fiften_Hades img{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 4px transparent;
+		box-shadow: 0 1px 10px 1px white;
+		height: 90px;
+		width: 125px;
+	}
+
+	/*ahades medium shomara 13*/
+
+	#mediumthirten_Hades{
+		background-color: rgba(0,0,0,0.4);
+		position: absolute;
+		height: 82%;
+		width: 95%;
+		top: 7%;
+		left:2%;
+		padding-top: 50px;
+		padding-left: 20px;
+	}
+
+	#mediumthirten_Hades #firstLine{
+		display: block;
+		float: right;
+		margin-top: -470px;
+		margin-right: 20px;
+	}
+	#mediumthirten_Hades #secondLine{
+		float: right;
+		display: block;
+		margin-top: -360px;
+		margin-right: 20px;
+	}
+	#mediumthirten_Hades #thirdLine{
+		float: right;
+		display: block;
+		margin-top: -250px;
+		margin-right: 20px;
+	}
+	#mediumthirten_Hades #fourthLine{
+		float: right;
+		display: block;
+		margin-top: -140px;
+		margin-right: 20px;
+	}
+	#mediumthirten_Hades #fifthLine{
+		float: right;
+		display: block;
+		margin-top: -35px;
+		margin-right: 20px;
+	}
+	#mediumthirten_Hades #firstLine div,#mediumthirten_Hades #secondLine div,
+	#mediumthirten_Hades #thirdLine div,#mediumthirten_Hades #fourthLine div,
+	#mediumthirten_Hades #fifthLine div{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 4px white;
+		height: 80px;
+		width: 120px;
+		margin: 7px;
+		display: inline-block;
+	}
+	#firstLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#secondLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#thirdLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#fourthLinepic .DivImage{
+		border-radius: 5px;
+		border:solid 3px transparent;
+		height: 80px;
+		width: 120px;
+		margin: 5px;
+		display:inline-block;
+	}
+	#mediumthirten_Hades #firstLinepic{
+		display: block;
+		margin-top: 50px;
+	}
+	#mediumthirten_Hades #secondLinepic{
+		display: block;
+	}
+	#mediumthirten_Hades #thirdLinepic{
+		display: block;
+	}
+	#mediumthirten_Hades #fourthLinepic{
+		display: block;
+	}
+	#mediumthirten_Hades img{
+		border-radius: 40px 0px 40px 0px;
+		border:solid 4px transparent;
+		box-shadow: 0 1px 10px 1px white;
+		height: 80px;
+		width: 120px;
+	}
+
+

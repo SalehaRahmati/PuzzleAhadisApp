@@ -1,0 +1,378 @@
+
+		/*css for the first three hades design*/
+		#first_Hades, #second_Hades, #third_Hades{
+			background-color: rgba(0,0,0,0.3);
+			position: absolute;
+			height: 70%;
+			width: 88%;
+			top: 12%;
+			left:5%;
+			padding-top: 60px;
+			padding-left: 40px;
+		}
+		#first_Hades img, #second_Hades img, #third_Hades img{
+			border-radius: 5px;
+			box-shadow:  0px 10px 50px 10px black;
+			height: 100px;
+			width: 170px;
+			display: inline-block;
+
+		}
+		#firstLine{
+			display: block;
+			margin-left: 25%;
+			margin-top: -40px;
+		}
+		#firstLine div{
+			border-radius: 5px;
+			border:solid 3px white;
+			height: 100px;
+			width: 170px;
+			margin: 7px;
+			display: inline-block;
+		}
+		#secondLine{
+			margin-left: 25%;
+		}
+		#secondLine div{
+			border-radius: 5px;
+			border:solid 3px white;
+			height: 100px;
+			width: 170px;
+			margin: 7px;
+			display: inline-block;
+		}
+		#first_Hades #all_Image, #second_Hades #all_Image, #third_Hades #all_Image{
+			margin-top: 100px;
+			margin-left: 230px;
+		}
+		#first_Hades #all_Image .DivImage , #second_Hades #all_Image .DivImage,
+		 #third_Hades #all_Image .DivImage{
+			border-radius: 5px;
+			border:solid 3px transparent;
+			height: 100px;
+			width: 170px;
+			margin: 7px;
+			display: inline-block;
+		}
+	
+		/*fourth & fifth hades css*/
+
+		#fourth_Hades,#fifth_Hades{
+			background-color: rgba(0,0,0,0.4);
+			position: absolute;
+			height: 70%;
+			width: 95%;
+			top: 12%;
+			left:2%;
+			padding-top: 60px;
+			padding-left: 20px;
+			z-index: 1;
+		}
+		#fourth_Hades img,#fifth_Hades img{
+			border-radius: 5px;
+			box-shadow:  0px 10px 50px 10px black;
+			height: 90px;
+			width: 140px;
+			display: inline-block;
+		}
+		 #fourth_Hades #firstLine, #fifth_Hades #firstLine{
+			display: block;
+			margin-left: 24%;
+			margin-top: -30px;
+		}
+		#fourth_Hades #firstLine div, #fourth_Hades #secondLine div,
+		#fifth_Hades #firstLine div,#fifth_Hades #secondLine div{
+			border-radius: 5px;
+			border:solid 3px white;
+			height: 90px;
+			width: 140px;
+			margin: 5px;
+			display: inline-block;
+		}
+		#fourth_Hades #secondLine,#fifth_Hades #secondLine{
+			margin-left: 24%;
+		}
+		#fourth_Hades #all_Image,#fifth_Hades #all_Image{
+			margin-top: 100px;
+			margin-left: 150px;
+		}
+		#fourth_Hades .DivImage,#fifth_Hades .DivImage{
+			border-radius: 5px;
+			border:solid 3px transparent;
+			height: 90px;
+			width: 140px;
+			margin: 6px;
+			display: inline-block;
+		}
+
+
+
+		/*from six upto eleven hades css*/
+
+		#sixth_Hades,#eight_Hades,#nine_Hades,#ten_Hades,#eleven_Hades{
+			background-color: rgba(0,0,0,0.4);
+			position: absolute;
+			height: 70%;
+			width: 95%;
+			top: 11%;
+			left:2%;
+			padding-top: 60px;
+			padding-left: 20px;
+			z-index: 1;
+		}
+		 #sixth_Hades #firstLine,#eight_Hades #firstLine,#nine_Hades #firstLine
+		 ,#ten_Hades #firstLine,#eleven_Hades #firstLine{
+			display: block;
+			margin-left: 30%;
+			margin-top: -20px;
+		}
+		#sixth_Hades #firstLine div, #sixth_Hades #secondLine div, 
+		#sixth_Hades #thirdLine div,#eight_Hades #firstLine div,#eight_Hades
+		#secondLine div,#eight_Hades #thirdLine div,#nine_Hades #firstLine div,
+		#nine_Hades #secondLine div,#nine_Hades #thirdLine div,#ten_Hades #firstLine div,
+		#ten_Hades #secondLine div,#ten_Hades #thirdLine div,#eleven_Hades #firstLine div,
+		#eleven_Hades #secondLine div,#eleven_Hades #thirdLine div{
+			border-radius: 5px;
+			border:solid 3px white;
+			height: 90px;
+			width: 125px;
+			margin: 5px;
+			display: inline-block;
+		}
+		#sixth_Hades #secondLine,#eight_Hades #secondLine,#nine_Hades #secondLine,
+		#ten_Hades #secondLine,#eleven_Hades #secondLine{
+			margin-left: 30%;
+			display: block;
+		}
+		#sixth_Hades #thirdLine,#eight_Hades #thirdLine,#nine_Hades #thirdLine,
+		#ten_Hades #thirdLine,#eleven_Hades #thirdLine{
+			margin-left: 30%;
+		}
+		#sixth_Hades .DivImage,#eight_Hades .DivImage,#nine_Hades .DivImage,
+		#ten_Hades .DivImage,#eleven_Hades .DivImage{
+			border-radius: 5px;
+			border:solid 3px transparent;
+			height: 90px;
+			width: 125px;
+			margin: 5px;
+			display: inline-block;
+		}
+		#sixth_Hades #all_Image,#eight_Hades #all_Image,#nine_Hades #all_Image,
+		#ten_Hades #all_Image,#eleven_Hades #all_Image{
+			margin-top: 40px;
+			margin-left: 120px;
+		}
+		 #sixth_Hades  img,#eight_Hades  img,#nine_Hades  img,#ten_Hades  img,
+		 #eleven_Hades img{
+		 	border-radius: 5px;
+			box-shadow:  0px 10px 50px 10px black;
+			height: 90px;
+			width: 125px;
+			display: inline-block;
+		}
+
+
+		/*from 12 upto 15 & hades 7 java*/
+
+
+		#seven_Hades,#twelve_Hades,#thirten_Hades,#fourten_Hades,#fiften_Hades{
+			background-color: rgba(0,0,0,0.4);
+			position: absolute;
+			height: 70%;
+			width: 95%;
+			top: 11%;
+			left:2%;
+			padding-top: 60px;
+			padding-left: 20px;
+			z-index: 1;
+		}
+
+		#seven_Hades #firstLine,#twelve_Hades #firstLine,#thirten_Hades #firstLine,
+		#fourten_Hades #firstLine,#fiften_Hades #firstLine{
+			display: block;
+			float: right;
+			margin-top: -430px;
+			margin-right: 20px;
+		}
+		#seven_Hades #secondLine,#twelve_Hades #secondLine,#thirten_Hades #secondLine,
+		#fourten_Hades #secondLine,#fiften_Hades #secondLine{
+			float: right;
+			display: block;
+			margin-top: -320px;
+			margin-right: 20px;
+		}
+		#seven_Hades #thirdLine,#twelve_Hades #thirdLine,#thirten_Hades #thirdLine,
+		#fourten_Hades #thirdLine,#fiften_Hades #thirdLine{
+			float: right;
+			display: block;
+			margin-top: -210px;
+			margin-right: 20px;
+		}
+		#seven_Hades #fourthLine,#twelve_Hades #fourthLine,#thirten_Hades #fourthLine,
+		#fourten_Hades #fourthLine,#fiften_Hades #fourthLine{
+			float: right;
+			display: block;
+			margin-top: -100px;
+			margin-right: 20px;
+		}
+		#seven_Hades #firstLine div,#twelve_Hades #firstLine div,#thirten_Hades 
+		#firstLine div,#fourten_Hades #firstLine div,#fiften_Hades #firstLine div,
+		#seven_Hades #secondLine div,#twelve_Hades #secondLine div,#thirten_Hades
+		#secondLine div,#fourten_Hades #secondLine div,#fiften_Hades #secondLine div,
+		#seven_Hades #thirdLine div,#twelve_Hades #thirdLine div,#thirten_Hades
+		#thirdLine div,#fourten_Hades #thirdLine div,#fiften_Hades #thirdLine div,
+		#seven_Hades #fourthLine div,#twelve_Hades #fourthLine div,#thirten_Hades 
+		#fourthLine div,#fourten_Hades #fourthLine div,#fiften_Hades #fourthLine div{
+			border-radius: 5px;
+			border:solid 3px white;
+			height: 90px;
+			width: 125px;
+			margin: 5px;
+			display: inline-block;
+		}
+		#firstLinepic .DivImage{
+			border-radius: 5px;
+			border:solid 3px transparent;
+			height: 90px;
+			width: 125px;
+			margin: 5px;
+			display:inline-block;
+		}
+		#secondLinepic .DivImage{
+			border-radius: 5px;
+			border:solid 3px transparent;
+			height: 90px;
+			width: 125px;
+			margin: 5px;
+			display:inline-block;
+		}
+		#thirdLinepic .DivImage{
+			border-radius: 5px;
+			border:solid 3px transparent;
+			height: 90px;
+			width: 125px;
+			margin: 5px;
+			display:inline-block;
+		}
+		#fourthLinepic .DivImage{
+			border-radius: 5px;
+			border:solid 3px transparent;
+			height: 90px;
+			width: 125px;
+			margin: 5px;
+			display:inline-block;
+		}
+		#seven_Hades #firstLinepic,#twelve_Hades #firstLinepic,#thirten_Hades #firstLinepic,
+		#fourten_Hades #firstLinepic,#fiften_Hades #firstLinepic{
+			display: block;
+			margin-top: -20px;
+		}
+		#seven_Hades #secondLinepic,#twelve_Hades #secondLinepic,#thirten_Hades 
+		#secondLinepic,#fourten_Hades #secondLinepic,#fiften_Hades #secondLinepic{
+			display: block;
+		}
+		#seven_Hades #thirdLinepic,#twelve_Hades #thirdLinepic,#thirten_Hades #thirdLinepic,
+		#fourten_Hades #thirdLinepic,#fiften_Hades #thirdLinepic{
+			display: block;
+		}
+		#seven_Hades #fourthLinepic,#twelve_Hades #fourthLinepic,#thirten_Hades #fourthLinepic,
+		#fourten_Hades #fourthLinepic,#fiften_Hades #fourthLinepic{
+			display: block;
+		}
+		#seven_Hades img,#twelve_Hades img,#thirten_Hades img,#fourten_Hades img,
+		#fiften_Hades img{
+			border-radius: 5px;
+			box-shadow:  0px 10px 50px 10px black;
+			height: 90px;
+			width: 125px;
+			display: inline-block;
+		}
+
+
+		/*css for animation of salawat ferestadan*/
+
+
+		.pictures{
+			animation:myanim 274s ease infinite;
+			background-image:url("../pictures for animations/salawat ferestadan/1.png");
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			height: 450px; 
+			margin-left: 13%; 
+			margin-top: 4%; 
+			width: 850px; 
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.50);
+			border:solid 10px #00004d;
+		}
+		@keyframes myanim{
+				0%{
+					background-image:url("../pictures for animations/salawat ferestadan/1.png");
+				}
+				4.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/2.png");  
+				}
+				9%{
+					background-image:url("../pictures for animations/salawat ferestadan/3.png");  
+				}
+				13.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/4.png");  
+				}
+				18%{
+					background-image:url("../pictures for animations/salawat ferestadan/5.png"); 
+				}
+				22.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/6.png"); 
+				}
+				27%{
+					background-image:url("../pictures for animations/salawat ferestadan/7.png"); 
+				}
+				31.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/8.png"); 
+				}
+				36%{
+					background-image:url("../pictures for animations/salawat ferestadan/9.png"); 
+				}
+				40.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/10.png"); 
+				}
+				45%{
+					background-image:url("../pictures for animations/salawat ferestadan/11.png"); 
+				}
+				49.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/12.png"); 
+				}
+				54%{
+					background-image:url("../pictures for animations/salawat ferestadan/13.png"); 
+				}
+				58.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/14.png"); 
+				}
+				63%{
+					background-image:url("../pictures for animations/salawat ferestadan/15.png"); 
+				}
+				67.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/16.png"); 
+				}
+				72%{
+					background-image:url("../pictures for animations/salawat ferestadan/17.png"); 
+				}
+				76.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/18.png"); 
+				}
+				80.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/19.png"); 
+				}
+				85%{
+					background-image:url("../pictures for animations/salawat ferestadan/20.png"); 
+				}
+				89.5%{
+					background-image:url("../pictures for animations/salawat ferestadan/21.png"); 
+				}
+				94%{
+					background-image:url("../pictures for animations/salawat ferestadan/22.png"); 
+				}
+				100%{
+					background-image:url("../pictures for animations/salawat ferestadan/22.png"); 
+				}
+			}
